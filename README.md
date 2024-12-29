@@ -6,18 +6,15 @@ Welcome to the **Useful Checklists and Guidelines** repository! This is a collec
 
 ## 🗂️ Project Structure
 
-The repository is organized into the following categories:
-
 ### **Checklists**
-- [Productivity Checklist](./checklists/productivity.md): Stay productive with simple and actionable steps.
-- [Internet Security Checklist](./checklists/security.md): Protect your data and stay safe online.
-- [Daily Planning Checklist](./checklists/daily-planning.md): Plan your day effectively and stay organized.
-- [Work-from-Home Productivity Checklist](./checklists/work-from-home.md): Tips for maintaining focus and balance while working remotely.
+- **[Daily Planning Checklist](./checklists/daily-planning.md)**: How to plan your day effectively and stay organized. *(New!)*
+- [Internet Security Checklist](./checklists/security.md): Protect your data and stay safe online. *(Coming soon)*
+- [Work-from-Home Productivity Checklist](./checklists/work-from-home.md): Tips for maintaining focus and balance while working remotely. *(Coming soon)*
 
 ### **Guides**
-- [Time Management Guide](./guides/time-management.md): Learn how to manage your time efficiently.
-- [Beginner's Guide to Git](./guides/git-basics.md): A simple guide to start using Git and GitHub.
-- [Basic Markdown Syntax Guide](./guides/markdown-syntax.md): Learn the basics of Markdown for documentation.
+- **[Time Management Guide](./guides/time-management.md)**: Practical tips to master time management. *(New!)*
+- [Beginner's Guide to Git](./guides/git-basics.md): A simple guide to start using Git and GitHub. *(Coming soon)*
+- [Basic Markdown Syntax Guide](./guides/markdown-syntax.md): Learn the basics of Markdown for documentation. *(Coming soon)*
 
 ---
 
@@ -40,9 +37,9 @@ The repository is organized into the following categories:
 ## 📚 Examples
 
 ### Checklist Example
-**[Productivity Checklist](./checklists/productivity.md)**:
+**[Daily Planning Checklist](./checklists/daily-planning.md)**:
 ```markdown
-# Productivity Checklist
+# Daily Planning Checklist
 
 - [ ] Use the Pomodoro technique for focused work.
 - [ ] Plan your day in advance.
@@ -51,28 +48,15 @@ The repository is organized into the following categories:
 ```
 
 ### Guide Example
-**[Git Setup Guide](./guides/git-basics.md)**:
+**[Time Management Guide](./guides/time-management.md)**:
 ```markdown
-# Beginner's Guide to Git
+# Time Management Guide
 
-1. **Clone a Repository**:
-   ```bash
-   git clone https://github.com/username/repository.git
-   ```
-2. **Create a Branch**:
-   ```bash
-   git checkout -b new-branch-name
-   ```
-3. **Make Changes and Commit**:
-   ```bash
-   git add .
-   git commit -m "Your commit message"
-   ```
-4. **Push to GitHub**:
-   ```bash
-   git push origin new-branch-name
-   ```
-5. **Submit a Pull Request**: Go to the repository on GitHub and create a PR.
+1. **Set Clear Goals**: Define what you want to achieve in the short and long term.
+2. **Prioritize Tasks**: Identify urgent and important tasks using the Eisenhower Matrix.
+3. **Plan Your Day**: Use a to-do list or planner.
+4. **Avoid Multitasking**: Focus on one task at a time for better efficiency.
+5. **Reflect and Adjust**: Spend 10 minutes at the end of each day reviewing your progress.
 ```
 
 ---
